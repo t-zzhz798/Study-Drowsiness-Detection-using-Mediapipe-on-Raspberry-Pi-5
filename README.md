@@ -1,5 +1,4 @@
-# Study-Drowsiness-Detection-using-Mediapipe-on-Raspberry-Pi-5
-# 🚗 Driver Drowsiness Detection using MediaPipe (Raspberry Pi 5)
+# 🚗 Study-Drowsiness-Detection-using-Mediapipe-on-Raspberry-Pi-5
 
 ## 📌 Overview
 
