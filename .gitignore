@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pycdrowsiness_log.csv
+Gesture/
