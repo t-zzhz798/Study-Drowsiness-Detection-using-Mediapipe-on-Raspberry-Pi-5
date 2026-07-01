@@ -18,6 +18,12 @@ It monitors facial features such as **eye closure, blink rate, and head posture*
 * Use the Bookworm (Debian 12, 64-bit) Raspberry Pi OS
 
 ---
+## Things you can modify
+
+* Update Drowsiness Detection Tresholds in drowsiness_state folder
+* Notification audios in static folder
+* Displays on live stream in process_drowsiness folder
+---
 
 ## Project Structure
 
